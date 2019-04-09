@@ -1,0 +1,12 @@
+server:
+  port: 9000
+
+dataset:
+  runners:
+    - name: Mike
+      time: PT1H10M
+    - name: John
+      time: PT1H15M
+    - name: Monica
+      time: PT0H58M
+  winner: Monica

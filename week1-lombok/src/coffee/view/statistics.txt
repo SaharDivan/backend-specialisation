@@ -1,0 +1,12 @@
+Total Beans,  White Beans%,  Black Beans%,  Last Bean 
+[BeanCan(beanQueue=[white]), 586, 409, 177, white, ]
+[BeanCan(beanQueue=[black]), 190, 52, 138, black, ]
+[BeanCan(beanQueue=[black]), 93, 2, 91, black, ]
+[BeanCan(beanQueue=[black]), 277, 94, 183, black, ]
+[BeanCan(beanQueue=[white]), 499, 321, 178, white, ]
+[BeanCan(beanQueue=[black]), 97, 90, 7, black, ]
+[BeanCan(beanQueue=[black]), 229, 2, 227, black, ]
+[BeanCan(beanQueue=[black]), 263, 176, 87, black, ]
+[BeanCan(beanQueue=[white]), 533, 375, 158, white, ]
+[BeanCan(beanQueue=[black]), 219, 100, 119, black, ]
+[, 2986, 54%, 45%, white: 3, black: 7]

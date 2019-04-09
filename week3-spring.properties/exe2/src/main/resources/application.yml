@@ -1,0 +1,23 @@
+word:
+  word: fantastic
+number:
+  num: 369
+week:
+  days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+bookshop:
+   shelf:
+    harryPoter: 2
+    foundation: 3
+    lordOfTheRings: 4
+building:
+  sauna:
+    seats: 5
+    temperature: 90
+school:
+  ballerinas:
+    - name: sara
+      performance: 3
+    - name: anna
+      performance: 4
+    - name: mona
+      performance: 5
