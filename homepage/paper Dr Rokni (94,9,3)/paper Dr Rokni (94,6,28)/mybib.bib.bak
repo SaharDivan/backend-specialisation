@@ -1,0 +1,733 @@
+‎@article{barcelo2005analogue‎,
+  ‎title={Analogue gravity}‎,
+  ‎author={Barcel{\'o}‎, ‎Carlos and Liberati‎, ‎Stefano and Visser‎, ‎Matt and others}‎,
+  ‎journal={Living Rev‎. ‎Rel}‎,
+  ‎volume={8}‎,
+  ‎number={12}‎,
+  ‎pages={214}‎,
+  ‎year={2005}‎
+}
+‎@article{delphenich2014electromagnetic‎,
+  ‎title={On the electromagnetic constitutive laws that are equivalent to spacetime metrics}‎,
+  ‎author={Delphenich‎, ‎DH}‎,
+  ‎journal={arXiv preprint arXiv:1409.5107}‎,
+  ‎year={2014}‎
+}
+‎@article{pendry2006controlling‎,
+  ‎title={Controlling electromagnetic fields}‎,
+  ‎author={Pendry‎, ‎John B and Schurig‎, ‎David and Smith‎, ‎David R}‎,
+  ‎journal={science}‎,
+  ‎volume={312}‎,
+  ‎number={5781}‎,
+  ‎pages={1780--1782}‎,
+  ‎year={2006}‎,
+  ‎publisher={American Association for the Advancement of Science}‎
+}
+‎@inproceedings{bittencourt2015light‎,
+  ‎title={The light rays analogue of a static black hole}‎,
+  ‎author={Bittencourt‎, ‎E and De Lorenci‎, ‎VA and Klippert‎, ‎R and Novello‎, ‎M and Salim‎, ‎JM}‎,
+  ‎booktitle={PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON NUMERICAL ANALYSIS AND APPLIED MATHEMATICS 2014 (ICNAAM-2014)}‎,
+  ‎volume={1648}‎,
+  ‎pages={290002}‎,
+  ‎year={2015}‎,
+  ‎organization={AIP Publishing}‎
+}
+‎@book{leonhardt2012geometry‎,
+  ‎title={Geometry and light‎: ‎the science of invisibility}‎,
+  ‎author={Leonhardt‎, ‎Ulf and Philbin‎, ‎Thomas}‎,
+  ‎year={2012}‎,
+  ‎publisher={Courier Corporation}‎
+}
+‎@article{thompson2011completely‎,
+  ‎title={A completely covariant approach to transformation optics}‎,
+  ‎author={Thompson‎, ‎Robert T and Cummer‎, ‎Steven A and Frauendiener‎, ‎J{\"o}rg}‎,
+  ‎journal={Journal of Optics}‎,
+  ‎volume={13}‎,
+  ‎number={2}‎,
+  ‎pages={024008}‎,
+  ‎year={2011}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@book{yariv1984optical‎,
+  ‎title={Optical waves in crystals}‎,
+  ‎author={Yariv‎, ‎Amnon and Yeh‎, ‎Pochi}‎,
+  ‎volume={10}‎,
+  ‎year={1984}‎,
+  ‎publisher={Wiley‎, ‎New York}‎
+}
+‎@book{born1999principles‎,
+  ‎title={Principles of optics‎: ‎electromagnetic theory of propagation‎, ‎interference and diffraction of light}‎,
+  ‎author={Born‎, ‎Max and Wolf‎, ‎Emil}‎,
+  ‎year={1999}‎,
+  ‎publisher={Cambridge university press}‎
+}
+‎@book{saleh1991fundamentals‎,
+  ‎title={Fundamentals of photonics}‎,
+  ‎author={Saleh‎, ‎Bahaa EA and Teich‎, ‎Malvin Carl and Saleh‎, ‎Bahaa E}‎,
+  ‎volume={22}‎,
+  ‎year={1991}‎,
+  ‎publisher={Wiley New York}‎
+}
+‎@article{yeh1980optics‎,
+  ‎title={Optics of anisotropic layered media‎: ‎a new 4$\times$ 4 matrix algebra}‎,
+  ‎author={Yeh‎, ‎Pochi}‎,
+  ‎journal={Surface Science}‎,
+  ‎volume={96}‎,
+  ‎number={1}‎,
+  ‎pages={41--53}‎,
+  ‎year={1980}‎,
+  ‎publisher={Elsevier}‎
+}
+‎@article{oldano1989electromagnetic‎,
+  ‎title={Electromagnetic-wave propagation in anisotropic stratified media}‎,
+  ‎author={Oldano‎, ‎C}‎,
+  ‎journal={Physical Review A}‎,
+  ‎volume={40}‎,
+  ‎number={10}‎,
+  ‎pages={6014}‎,
+  ‎year={1989}‎,
+  ‎publisher={APS}‎
+}
+‎@article{jovanovic20012‎,
+  ‎title={A 2$\times$ 2 matrix algebra for electromagnetic wave propagation in stratified biaxial media}‎,
+  ‎author={Jovanovic‎, ‎Nenad and Papousek‎, ‎Walter}‎,
+  ‎journal={AEU-International Journal of Electronics and Communications}‎,
+  ‎volume={55}‎,
+  ‎number={2}‎,
+  ‎pages={123--126}‎,
+  ‎year={2001}‎,
+  ‎publisher={Elsevier}‎
+}
+‎@article{chang2001simple‎,
+  ‎title={Simple formulas for calculating wave propagation and splitting in anisotropic media}‎,
+  ‎author={Chang‎, ‎Chong-Min and Shieh‎, ‎Han-Ping D}‎,
+  ‎journal={Japanese Journal of Applied Physics}‎,
+  ‎volume={40}‎,
+  ‎number={11R}‎,
+  ‎pages={6391}‎,
+  ‎year={2001}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{qi2005analysis‎,
+  ‎title={Analysis of electromagnetic propagation in birefringent thin film}‎,
+  ‎author={Qi‎, ‎Hongji and Wang‎, ‎Jianguo and Shao‎, ‎Jianda and Fan‎, ‎Zhengxiu}‎,
+  ‎journal={Science in China Series G‎: ‎Physics and Astronomy}‎,
+  ‎volume={48}‎,
+  ‎number={5}‎,
+  ‎pages={513--520}‎,
+  ‎year={2005}‎,
+  ‎publisher={Springer}‎
+}
+‎@article{hao2008electromagnetic‎,
+  ‎title={Electromagnetic wave scatterings by anisotropic metamaterials‎: ‎Generalized 4$\times$ 4 transfer-matrix method}‎,
+  ‎author={Hao‎, ‎Jiaming and Zhou‎, ‎Lei}‎,
+  ‎journal={Physical Review B}‎,
+  ‎volume={77}‎,
+  ‎number={9}‎,
+  ‎pages={094201}‎,
+  ‎year={2008}‎,
+  ‎publisher={APS}‎
+}
+‎@book{sluijter2010ray‎,
+  ‎title={Ray-optics analysis of inhomogeneous optically anisotropic media}‎,
+  ‎author={Sluijter‎, ‎Maarten}‎,
+  ‎year={2010}‎,
+  ‎publisher={TU Delft‎, ‎Delft University of Technology}‎
+}
+‎@article{liang2012transformation‎,
+  ‎title={Transformation media with variable optical axes}‎,
+  ‎author={Liang‎, ‎Zixian and Jiang‎, ‎Xu and Miao‎, ‎Feng and Guenneau‎, ‎Sebastien and Li‎, ‎Jensen}‎,
+  ‎journal={New Journal of Physics}‎,
+  ‎volume={14}‎,
+  ‎number={10}‎,
+  ‎pages={103042}‎,
+  ‎year={2012}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@book{novello2002artificial‎,
+  ‎title={Artificial black holes}‎,
+  ‎author={Novello‎, ‎M{\'a}rio and Visser‎, ‎Matt and Volovik‎, ‎Grigory E}‎,
+  ‎year={2002}‎,
+  ‎publisher={World Scientific Publishing Company Incorporated}‎
+}
+‎@incollection{visser2013survey‎,
+  ‎title={Survey of analogue spacetimes}‎,
+  ‎author={Visser‎, ‎Matt}‎,
+  ‎booktitle={Analogue Gravity Phenomenology}‎,
+  ‎pages={31--50}‎,
+  ‎year={2013}‎,
+  ‎publisher={Springer}‎
+}
+‎@book{cai2010optical‎,
+  ‎title={Optical metamaterials}‎,
+  ‎author={Cai‎, ‎Wenshan and Shalaev‎, ‎Vladimir M}‎,
+  ‎year={2010}‎,
+  ‎publisher={Springer}‎
+}
+‎@article{narimanov2009optical‎,
+  ‎title={Optical black hole‎: ‎Broadband omnidirectional light absorber}‎,
+  ‎author={Narimanov‎, ‎Evgenii E and Kildishev‎, ‎Alexander V}‎,
+  ‎journal={Applied Physics Letters}‎,
+  ‎volume={95}‎,
+  ‎number={4}‎,
+  ‎pages={041106}‎,
+  ‎year={2009}‎,
+  ‎publisher={AIP Publishing}‎
+}
+‎@article{yao2014analogy‎,
+  ‎title={An analogy strategy for transformation optics}‎,
+  ‎author={Yao‎, ‎Kan and Chen‎, ‎Huanyang and Liu‎, ‎Yongmin and Jiang‎, ‎Xunya}‎,
+  ‎journal={New Journal of Physics}‎,
+  ‎volume={16}‎,
+  ‎number={6}‎,
+  ‎pages={063008}‎,
+  ‎year={2014}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{dehdashti2013analogue‎,
+  ‎title={Analogue special and general relativity by optical multilayer thin films‎: ‎the Rindler space case}‎,
+  ‎author={Dehdashti‎, ‎Sh and Roknizadeh‎, ‎R and Mahdifar‎, ‎A}‎,
+  ‎journal={Journal of Modern Optics}‎,
+  ‎volume={60}‎,
+  ‎number={3}‎,
+  ‎pages={233--239}‎,
+  ‎year={2013}‎,
+  ‎publisher={Taylor \& Francis}‎
+}
+‎@article{thompson2010dielectric‎,
+  ‎title={Dielectric analog space-times}‎,
+  ‎author={Thompson‎, ‎Robert T and Frauendiener‎, ‎J{\"o}rg}‎,
+  ‎journal={Physical Review D}‎,
+  ‎volume={82}‎,
+  ‎number={12}‎,
+  ‎pages={124021}‎,
+  ‎year={2010}‎,
+  ‎publisher={APS}‎
+}
+‎@article{lee2014elliptic‎,
+  ‎title={Elliptic cylindrical pseudo-optical black hole for omnidirectional light absorber}‎,
+  ‎author={Lee‎, ‎YY and Kang‎, ‎ES and Jung‎, ‎KH and Lee‎, ‎JW and Ahn‎, ‎D}‎,
+  ‎journal={JOSA B}‎,
+  ‎volume={31}‎,
+  ‎number={8}‎,
+  ‎pages={1948--1953}‎,
+  ‎year={2014}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{vakil2011transformation‎,
+  ‎title={Transformation optics using graphene}‎,
+  ‎author={Vakil‎, ‎Ashkan and Engheta‎, ‎Nader}‎,
+  ‎journal={Science}‎,
+  ‎volume={332}‎,
+  ‎number={6035}‎,
+  ‎pages={1291--1294}‎,
+  ‎year={2011}‎,
+  ‎publisher={American Association for the Advancement of Science}‎
+}
+‎@article{chen2010transformation‎,
+  ‎title={Transformation optics and metamaterials}‎,
+  ‎author={Chen‎, ‎Huanyang and Chan‎, ‎CT and Sheng‎, ‎Ping}‎,
+  ‎journal={Nature materials}‎,
+  ‎volume={9}‎,
+  ‎number={5}‎,
+  ‎pages={387--396}‎,
+  ‎year={2010}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{lai2009illusion‎,
+  ‎title={Illusion optics‎: ‎the optical transformation of an object into another object}‎,
+  ‎author={Lai‎, ‎Yun and Ng‎, ‎Jack and Chen‎, ‎HuanYang and Han‎, ‎DeZhuan and Xiao‎, ‎JunJun and Zhang‎, ‎Zhao-Qing and Chan‎, ‎CT}‎,
+  ‎journal={Physical review letters}‎,
+  ‎volume={102}‎,
+  ‎number={25}‎,
+  ‎pages={253902}‎,
+  ‎year={2009}‎,
+  ‎publisher={APS}‎
+}
+‎@article{kildishev2008engineering‎,
+  ‎title={Engineering space for light via transformation optics}‎,
+  ‎author={Kildishev‎, ‎Alexander V and Shalaev‎, ‎Vladimir M}‎,
+  ‎journal={Optics letters}‎,
+  ‎volume={33}‎,
+  ‎number={1}‎,
+  ‎pages={43--45}‎,
+  ‎year={2008}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{pendry2012transformation‎,
+  ‎title={Transformation optics and subwavelength control of light}‎,
+  ‎author={Pendry‎, ‎JB and Aubry‎, ‎A and Smith‎, ‎DR and Maier‎, ‎SA}‎,
+  ‎journal={science}‎,
+  ‎volume={337}‎,
+  ‎number={6094}‎,
+  ‎pages={549--552}‎,
+  ‎year={2012}‎,
+  ‎publisher={American Association for the Advancement of Science}‎
+}
+‎@article{greenleaf2009cloaking‎,
+  ‎title={Cloaking devices‎, ‎electromagnetic wormholes‎, ‎and transformation optics}‎,
+  ‎author={Greenleaf‎, ‎Allan and Kurylev‎, ‎Yaroslav and Lassas‎, ‎Matti and Uhlmann‎, ‎Gunther}‎,
+  ‎journal={SIAM review}‎,
+  ‎volume={51}‎,
+  ‎number={1}‎,
+  ‎pages={3--33}‎,
+  ‎year={2009}‎,
+  ‎publisher={SIAM}‎
+}
+‎@article{roberts2009optical‎,
+  ‎title={Optical lens compression via transformation optics}‎,
+  ‎author={Roberts‎, ‎DA and Kundtz‎, ‎N and Smith‎, ‎DR}‎,
+  ‎journal={Optics express}‎,
+  ‎volume={17}‎,
+  ‎number={19}‎,
+  ‎pages={16535--16542}‎,
+  ‎year={2009}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{sadeghi2015transformation‎,
+  ‎title={Transformation optics with Fabry-P{\'e}rot resonances}‎,
+  ‎author={Sadeghi‎, ‎MM and Li‎, ‎Sucheng and Xu‎, ‎Lin and Hou‎, ‎Bo and Chen‎, ‎Huanyang}‎,
+  ‎journal={Scientific reports}‎,
+  ‎volume={5}‎,
+  ‎year={2015}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{shin2015quasi‎,
+  ‎title={Quasi-conformal transformation optics with elasto-electromagnetic metamaterials‎: ‎Design algorithm}‎,
+  ‎author={Shin‎, ‎Dongheok and Kim‎, ‎Junhyun and Seo‎, ‎Ilsung and Kim‎, ‎Kyoungsik}‎,
+  ‎journal={Applied Physics Letters}‎,
+  ‎volume={107}‎,
+  ‎number={2}‎,
+  ‎pages={021908}‎,
+  ‎year={2015}‎,
+  ‎publisher={AIP Publishing}‎
+}
+‎@article{gbur2015designing‎,
+  ‎title={Designing directional cloaks from localized fields}‎,
+  ‎author={Gbur‎, ‎Greg}‎,
+  ‎journal={Optics letters}‎,
+  ‎volume={40}‎,
+  ‎number={6}‎,
+  ‎pages={986--989}‎,
+  ‎year={2015}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{wu2015controlling‎,
+  ‎title={Controlling the wave propagation through the medium designed by linear coordinate transformation}‎,
+  ‎author={Wu‎, ‎Yicheng and He‎, ‎Chengdong and Wang‎, ‎Yuzhuo and Liu‎, ‎Xuan and Zhou‎, ‎Jing}‎,
+  ‎journal={European Journal of Physics}‎,
+  ‎volume={36}‎,
+  ‎number={1}‎,
+  ‎pages={015006}‎,
+  ‎year={2015}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{shi2015electromagnetic‎,
+  ‎title={Electromagnetic Detection of a Perfect Carpet Cloak}‎,
+  ‎author={Shi‎, ‎Xihang and Gao‎, ‎Fei and Lin‎, ‎Xiao and Zhang‎, ‎Baile}‎,
+  ‎journal={Scientific reports}‎,
+  ‎volume={5}‎,
+  ‎year={2015}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{courtial2015direct‎,
+  ‎title={Direct stigmatic imaging with curved surfaces}‎,
+  ‎author={Courtial‎, ‎Johannes and Oxburgh‎, ‎Stephen and Tyc‎, ‎Tom{\'a}{\v{s}}}‎,
+  ‎journal={JOSA A}‎,
+  ‎volume={32}‎,
+  ‎number={3}‎,
+  ‎pages={478--481}‎,
+  ‎year={2015}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{mirzaei2015all‎,
+  ‎title={All-Dielectric Multilayer Cylindrical Structures for Invisibility Cloaking}‎,
+  ‎author={Mirzaei‎, ‎Ali and Miroshnichenko‎, ‎Andrey E and Shadrivov‎, ‎Ilya V and Kivshar‎, ‎Yuri S}‎,
+  ‎journal={Scientific reports}‎,
+  ‎volume={5}‎,
+  ‎year={2015}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{li2008hiding‎,
+  ‎title={Hiding under the carpet‎: ‎a new strategy for cloaking}‎,
+  ‎author={Li‎, ‎Jensen and Pendry‎, ‎JB}‎,
+  ‎journal={Physical Review Letters}‎,
+  ‎volume={101}‎,
+  ‎number={20}‎,
+  ‎pages={203901}‎,
+  ‎year={2008}‎,
+  ‎publisher={APS}‎
+}
+‎@inproceedings{fleury2014cloaking‎,
+  ‎title={Cloaking and invisibility‎: ‎A review}‎,
+  ‎author={Fleury‎, ‎Romain and Al{\`u}‎, ‎Andrea}‎,
+  ‎booktitle={Forum for Electromagnetic Research Methods and Application Technologies (FERMAT)}‎,
+  ‎volume={1}‎,
+  ‎number={7}‎,
+  ‎pages={1--24}‎,
+  ‎year={2014}‎
+}
+‎@article{lukens2014temporal‎,
+  ‎title={Temporal cloaking for data suppression and retrieval}‎,
+  ‎author={Lukens‎, ‎Joseph M and Metcalf‎, ‎Andrew J and Leaird‎, ‎Daniel E and Weiner‎, ‎Andrew M}‎,
+  ‎journal={Optica}‎,
+  ‎volume={1}‎,
+  ‎number={6}‎,
+  ‎pages={372--375}‎,
+  ‎year={2014}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{chremmos2014temporal‎,
+  ‎title={Temporal cloaking with accelerating wave packets}‎,
+  ‎author={Chremmos‎, ‎Ioannis}‎,
+  ‎journal={Optics letters}‎,
+  ‎volume={39}‎,
+  ‎number={15}‎,
+  ‎pages={4611--4614}‎,
+  ‎year={2014}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{niu2015novel‎,
+  ‎title={A novel attack to spatial cloaking schemes in location-based services}‎,
+  ‎author={Niu‎, ‎Ben and Zhu‎, ‎Xiaoyan and Li‎, ‎Qinghua and Chen‎, ‎Jie and Li‎, ‎Hui}‎,
+  ‎journal={Future Generation Computer Systems}‎,
+  ‎volume={49}‎,
+  ‎pages={125--132}‎,
+  ‎year={2015}‎,
+  ‎publisher={Elsevier}‎
+}
+‎@article{duan2014geometric‎,
+  ‎title={Geometric optics-based multiband cloaking of large objects with the wave phase and amplitude preservation}‎,
+  ‎author={Duan‎, ‎Ran and Semouchkina‎, ‎Elena and Pandey‎, ‎Ravi}‎,
+  ‎journal={Optics express}‎,
+  ‎volume={22}‎,
+  ‎number={22}‎,
+  ‎pages={27193--27202}‎,
+  ‎year={2014}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{xu2014logarithm‎,
+  ‎title={Logarithm conformal mapping brings the cloaking effect}‎,
+  ‎author={Xu‎, ‎Lin and Chen‎, ‎Huanyang}‎,
+  ‎journal={Scientific reports}‎,
+  ‎volume={4}‎,
+  ‎year={2014}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{shchelokova2015experimental‎,
+  ‎title={Experimental realization of invisibility cloaking}‎,
+  ‎author={Shchelokova‎, ‎Alena V and Melchakova‎, ‎Irina V and Slobozhanyuk‎, ‎Alexey P and Yankovskaya‎, ‎Elizaveta A and Simovski‎, ‎Constantin R and Belov‎, ‎Pavel A}‎,
+  ‎journal={Physics-Uspekhi}‎,
+  ‎volume={58}‎,
+  ‎number={2}‎,
+  ‎pages={167}‎,
+  ‎year={2015}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{wang2011cylindrical‎,
+  ‎title={A cylindrical optical black hole using graded index photonic crystals}‎,
+  ‎author={Wang‎, ‎Hung-Wen and Chen‎, ‎Lien-Wen}‎,
+  ‎journal={Journal of Applied Physics}‎,
+  ‎volume={109}‎,
+  ‎number={10}‎,
+  ‎pages={103104}‎,
+  ‎year={2011}‎,
+  ‎publisher={AIP Publishing}‎
+}
+‎@article{bai2010controllable‎,
+  ‎title={Controllable optical black hole in left-handed materials}‎,
+  ‎author={Bai‎, ‎Qiang and Chen‎, ‎Jing and Shen‎, ‎Nian-Hai and Cheng‎, ‎Chen and Wang‎, ‎Hui-Tian}‎,
+  ‎journal={Optics express}‎,
+  ‎volume={18}‎,
+  ‎number={3}‎,
+  ‎pages={2106--2115}‎,
+  ‎year={2010}‎,
+  ‎publisher={Optical Society of America}‎
+}
+‎@article{smolyaninov2010metric‎,
+  ‎title={Metric signature transitions in optical metamaterials}‎,
+  ‎author={Smolyaninov‎, ‎Igor I and Narimanov‎, ‎Evgenii E}‎,
+  ‎journal={Physical review letters}‎,
+  ‎volume={105}‎,
+  ‎number={6}‎,
+  ‎pages={067402}‎,
+  ‎year={2010}‎,
+  ‎publisher={APS}‎
+}
+‎@article{lai2009complementary‎,
+  ‎title={Complementary media invisibility cloak that cloaks objects at a distance outside the cloaking shell}‎,
+  ‎author={Lai‎, ‎Yun and Chen‎, ‎Huanyang and Zhang‎, ‎Zhao-Qing and Chan‎, ‎CT}‎,
+  ‎journal={Physical review letters}‎,
+  ‎volume={102}‎,
+  ‎number={9}‎,
+  ‎pages={093901}‎,
+  ‎year={2009}‎,
+  ‎publisher={APS}‎
+}
+‎@article{chen2013ray‎,
+  ‎title={Ray-optics cloaking devices for large objects in incoherent natural light}‎,
+  ‎author={Chen‎, ‎Hongsheng and Zheng‎, ‎Bin and Shen‎, ‎Lian and Wang‎, ‎Huaping and Zhang‎, ‎Xianmin and Zheludev‎, ‎Nikolay I and Zhang‎, ‎Baile}‎,
+  ‎journal={Nature communications}‎,
+  ‎volume={4}‎,
+  ‎year={2013}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{sheng2013trapping‎,
+  ‎title={Trapping light by mimicking gravitational lensing}‎,
+  ‎author={Sheng‎, ‎Chong and Liu‎, ‎Hui and Wang‎, ‎Yannan and Zhu‎, ‎SN and Genov‎, ‎DA}‎,
+  ‎journal={Nature Photonics}‎,
+  ‎volume={7}‎,
+  ‎number={11}‎,
+  ‎pages={902--906}‎,
+  ‎year={2013}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{shin2012broadband‎,
+  ‎title={Broadband electromagnetic cloaking with smart metamaterials}‎,
+  ‎author={Shin‎, ‎Dongheok and Urzhumov‎, ‎Yaroslav and Jung‎, ‎Youngjean and Kang‎, ‎Gumin and Baek‎, ‎Seunghwa and Choi‎, ‎Minjung and Park‎, ‎Haesung and Kim‎, ‎Kyoungsik and Smith‎, ‎David R}‎,
+  ‎journal={Nature communications}‎,
+  ‎volume={3}‎,
+  ‎pages={1213}‎,
+  ‎year={2012}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{ma2013first‎,
+  ‎title={First experimental demonstration of an isotropic electromagnetic cloak with strict conformal mapping}‎,
+  ‎author={Ma‎, ‎Yungui and Liu‎, ‎Yichao and Lan‎, ‎Lu and Wu‎, ‎Tiantian and Jiang‎, ‎Wei and Ong‎, ‎CK and He‎, ‎Sailing}‎,
+  ‎journal={Scientific reports}‎,
+  ‎volume={3}‎,
+  ‎year={2013}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{robertson2012theory‎,
+  ‎title={The theory of Hawking radiation in laboratory analogues}‎,
+  ‎author={Robertson‎, ‎Scott J}‎,
+  ‎journal={Journal of Physics B‎: ‎Atomic‎, ‎Molecular and Optical Physics}‎,
+  ‎volume={45}‎,
+  ‎number={16}‎,
+  ‎pages={163001}‎,
+  ‎year={2012}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{chen2010transformation‎,
+  ‎title={Transformation optics that mimics the system outside a Schwarzschild black hole}‎,
+  ‎author={Chen Huanyang and Miao and Rong-Xin and Li Miao}‎,
+  ‎journal={Optics express}‎,
+  ‎volume={18}‎,
+  ‎number={14}‎,
+  ‎pages={15183--15188}‎,
+  ‎year={2010}‎,
+  ‎publisher={Optical Society of America}‎
+}
+
+‎@article{horsley2011transformation‎,
+  ‎title={Transformation optics‎, ‎isotropic chiral media and non-Riemannian geometry}‎,
+  ‎author={Horsley‎, ‎SAR}‎,
+  ‎journal={New Journal of Physics}‎,
+  ‎volume={13}‎,
+  ‎number={5}‎,
+  ‎pages={053053}‎,
+  ‎year={2011}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{yan2008cylindrical‎,
+  ‎title={Cylindrical superlens by a coordinate transformation}‎,
+  ‎author={Yan‎, ‎Min and Yan‎, ‎Wei and Qiu‎, ‎Min}‎,
+  ‎journal={Physical Review B}‎,
+  ‎volume={78}‎,
+  ‎number={12}‎,
+  ‎pages={125113}‎,
+  ‎year={2008}‎,
+  ‎publisher={APS}‎
+}
+‎@article{leonhardt2006optical‎,
+  ‎title={Optical conformal mapping}‎,
+  ‎author={Leonhardt‎, ‎Ulf}‎,
+  ‎journal={Science}‎,
+  ‎volume={312}‎,
+  ‎number={5781}‎,
+  ‎pages={1777--1780}‎,
+  ‎year={2006}‎,
+  ‎publisher={American Association for the Advancement of Science}‎
+}
+‎@article{valentine2009optical‎,
+  ‎title={An optical cloak made of dielectrics}‎,
+  ‎author={Valentine‎, ‎Jason and Li‎, ‎Jensen and Zentgraf‎, ‎Thomas and Bartal‎, ‎Guy and Zhang‎, ‎Xiang}‎,
+  ‎journal={Nature materials}‎,
+  ‎volume={8}‎,
+  ‎number={7}‎,
+  ‎pages={568--571}‎,
+  ‎year={2009}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{cai2007optical‎,
+  ‎title={Optical cloaking with metamaterials}‎,
+  ‎author={Cai‎, ‎Wenshan and Chettiar‎, ‎Uday K and Kildishev‎, ‎Alexander V and Shalaev‎, ‎Vladimir M}‎,
+  ‎journal={Nature photonics}‎,
+  ‎volume={1}‎,
+  ‎number={4}‎,
+  ‎pages={224--227}‎,
+  ‎year={2007}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{ma2009omnidirectional‎,
+  ‎title={An omnidirectional retroreflector based on the transmutation of dielectric singularities}‎,
+  ‎author={Ma‎, ‎Yun Gui and Ong‎, ‎CK and Tyc‎, ‎Tom{\'a}{\v{s}} and Leonhardt‎, ‎Ulf}‎,
+  ‎journal={Nature Materials}‎,
+  ‎volume={8}‎,
+  ‎number={8}‎,
+  ‎pages={639--642}‎,
+  ‎year={2009}‎,
+  ‎publisher={Nature Publishing Group}‎
+}
+‎@article{mccall2013transformation‎,
+  ‎title={Transformation optics and cloaking}‎,
+  ‎author={McCall‎, ‎Martin}‎,
+  ‎journal={Contemporary Physics}‎,
+  ‎volume={54}‎,
+  ‎number={6}‎,
+  ‎pages={273--286}‎,
+  ‎year={2013}‎,
+  ‎publisher={Taylor \& Francis}‎
+}
+‎@article{leonhardt2006general‎,
+  ‎title={General relativity in electrical engineering}‎,
+  ‎author={Leonhardt‎, ‎Ulf and Philbin‎, ‎Thomas G}‎,
+  ‎journal={New Journal of Physics}‎,
+  ‎volume={8}‎,
+  ‎number={10}‎,
+  ‎pages={247}‎,
+  ‎year={2006}‎,
+  ‎publisher={IOP Publishing}‎
+}
+‎@article{schurig2006metamaterial‎,
+  ‎title={Metamaterial electromagnetic cloak at microwave frequencies}‎,
+  ‎author={Schurig‎, ‎David and Mock‎, ‎JJ and Justice‎, ‎BJ and Cummer‎, ‎Steven A and Pendry‎, ‎John B and Starr‎, ‎AF and Smith‎, ‎DR}‎,
+  ‎journal={Science}‎,
+  ‎volume={314}‎,
+  ‎number={5801}‎,
+  ‎pages={977--980}‎,
+  ‎year={2006}‎,
+  ‎publisher={American Association for the Advancement of Science}‎
+}
+‎@article{yao2008limitation‎,
+  ‎title={Limitation of the electromagnetic cloak with dispersive material}‎,
+  ‎author={Yao‎, ‎Peijun and Liang‎, ‎Zixian and Jiang‎, ‎Xunya}‎,
+  ‎journal={Applied Physics Letters}‎,
+  ‎volume={92}‎,
+  ‎number={3}‎,
+  ‎pages={031111}‎,
+  ‎year={2008}‎,
+  ‎publisher={AIP Publishing}‎
+}
+‎@article{leonhardt1999optics‎,
+  ‎title={Optics of nonuniformly moving media}‎,
+  ‎author={Leonhardt‎, ‎U and Piwnicki‎, ‎P}‎,
+  ‎journal={Physical Review A}‎,
+  ‎volume={60}‎,
+  ‎number={6}‎,
+  ‎pages={4301}‎,
+  ‎year={1999}‎,
+  ‎publisher={APS}‎
+}
+‎@article{brevik2001light‎,
+  ‎title={Light rays at optical black holes in moving media}‎,
+  ‎author={Brevik‎, ‎I and Halnes‎, ‎G}‎,
+  ‎journal={Physical Review D}‎,
+  ‎volume={65}‎,
+  ‎number={2}‎,
+  ‎pages={024005}‎,
+  ‎year={2001}‎,
+  ‎publisher={APS}‎
+}
+‎@article{de2003optical‎,
+  ‎title={Optical black holes in moving dielectrics}‎,
+  ‎author={De Lorenci‎, ‎Vitorio A and Klippert‎, ‎Renato and Obukhov‎, ‎Yu N}‎,
+  ‎journal={Physical Review D}‎,
+  ‎volume={68}‎,
+  ‎number={6}‎,
+  ‎pages={061502}‎,
+  ‎year={2003}‎,
+  ‎publisher={APS}‎
+}
+‎@article{leonhardt2000relativistic‎,
+  ‎title={Relativistic effects of light in moving media with extremely low group velocity}‎,
+  ‎author={Leonhardt‎, ‎Ulf and Piwnicki‎, ‎Paul}‎,
+  ‎journal={Physical review letters}‎,
+  ‎volume={84}‎,
+  ‎number={5}‎,
+  ‎pages={822}‎,
+  ‎year={2000}‎,
+  ‎publisher={APS}‎
+}
+‎@article{rosquist2004letter‎,
+  ‎title={Letter‎: ‎A Moving Medium Simulation of Schwarzschild Black Hole Optics}‎,
+  ‎author={Rosquist‎, ‎Kjell}‎,
+  ‎journal={General Relativity and Gravitation}‎,
+  ‎volume={36}‎,
+  ‎number={8}‎,
+  ‎pages={1977--1982}‎,
+  ‎year={2004}‎,
+  ‎publisher={Springer}‎
+}
+‎@article{mousavi‎, 
+‎author = {mousavi‎, ‎Sayed Alireza and Roknizadeh‎, ‎Rasoul and dehdashti‎, ‎shahram and AWT_TAG}‎,  
+‎title = {Analogy between anisotropic layered media with variable optical axes and curve space-time for extra ordinary ray}‎, 
+‎volume = {21}‎,  
+‎abstract = { In Transformation Optics we search an analogy between curved space-time and impedance-matched media‎. ‌‎But this analogy in non-impedance-matched media is not considered in literature‎. ‎In this paper we develop a mathematical structure based on an eigenvalue wave equation for determining the direction of light in anisotropic layered media‎. ‎We find that the layered media with variable optical axes is appeared as curved space-time‎, ‎with an axes-dependent metric‎, ‎for extraordinary ray‎.  ‎}‎,  
+‎URL = {http://www.opsi.ir/browse.php?a_code=A-10-1-560&slc_lang=en&sid=1}‎,  
+‎journal = {arXive}‎, 
+‎year = {2015}‎  
+}
+
+‎@book{carroll2004spacetime‎,
+  ‎title={Spacetime and geometry‎. ‎An introduction to general relativity}‎,
+  ‎author={Carroll‎, ‎Sean M}‎,
+  ‎volume={1}‎,
+  ‎year={2004}‎
+}
+‎@book{jackson1962classical‎,
+  ‎title={Classical electrodynamics}‎,
+  ‎author={Jackson‎, ‎John David and Jackson‎, ‎John D}‎,
+  ‎volume={3}‎,
+  ‎year={1962}‎,
+  ‎publisher={Wiley New York etc.}‎
+}
+
+‎@article {PEN‎,
+‎author = {Neves‎, ‎N‎. ‎M‎. ‎and Pouzada‎, ‎A‎. ‎S‎. ‎and Voerman‎, ‎J‎. ‎H‎. ‎D‎. ‎and Powell‎, ‎P‎. ‎C.}‎,
+‎title = {The use of birefringence for predicting the stiffness of injection molded polycarbonate discs}‎,
+‎journal = {Polymer Engineering & Science}‎,
+‎volume = {38}‎,
+‎number = {10}‎,
+‎publisher = {Wiley Subscription Services‎, ‎Inc.‎, ‎A Wiley Company}‎,
+‎issn = {1548-2634}‎,
+‎url = {http://dx.doi.org/10.1002/pen.10347}‎,
+‎doi = {10.1002/pen.10347}‎,
+‎pages = {1770--1777}‎,
+‎year = {1998}‎
+}
+‎@article{Sarkissian‎, 
+‎author = {Hakob Sarkissian and Svetlana V‎. ‎Serak and Nelson V‎. ‎Tabiryan and Leon B‎. ‎Glebov and Vasile Rotar and Boris Ya‎. ‎Zeldovich}‎, 
+‎journal = {Opt‎. ‎Lett.}‎, 
+‎keywords = {Diffraction gratings; Liquid crystals; Liquid-crystal devices}‎,
+‎number = {15}‎, 
+‎pages = {2248--2250}‎, 
+‎publisher = {OSA}‎,
+‎title = {Polarization-controlled switching between diffraction orders in transverse-periodically aligned nematic liquid crystals}‎, 
+‎volume = {31}‎, 
+‎month = {Aug}‎,
+‎year = {2006}‎,
+‎url = {http://ol.osa.org/abstract.cfm?URI=ol-31-15-2248}‎
+}
+‎@article{nersisyan2009optical,
+  title={Optical axis gratings in liquid crystals and their use for polarization insensitive optical switching},
+  author={Nersisyan, SR and Tabiryan, NV and Steeves, DM and Kimball, BR},
+  journal={Journal of Nonlinear Optical Physics \& Materials},
+  volume={18},
+  number={01},
+  pages={1--47},
+  year={2009},
+  publisher={World Scientific}
+}
+

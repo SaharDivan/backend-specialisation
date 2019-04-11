@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (Web2C 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SSversionpaper(23-11-2015).aux
+The style file: osajnl.bst
+Database file #1: mybib.bib
+Repeated entry---line 512 of file mybib.bib
+ : @article{chen2010transformation
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "sahar"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "NERSISYAN"
+Warning--missing publisher in carroll2004spacetime
+You've used 33 entries,
+            2587 wiz_defined-function locations,
+            794 strings with 9363 characters,
+and the built_in function-call counts, 11414 in all, are:
+= -- 804
+> -- 354
+< -- 8
++ -- 131
+- -- 98
+* -- 788
+:= -- 1320
+add.period$ -- 60
+call.type$ -- 33
+change.case$ -- 25
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 1111
+empty$ -- 1194
+format.name$ -- 125
+if$ -- 2553
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 301
+newline$ -- 103
+num.names$ -- 33
+pop$ -- 398
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 184
+stack$ -- 0
+substring$ -- 595
+swap$ -- 722
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 73
+width$ -- 35
+write$ -- 289
+(There was 1 error message)

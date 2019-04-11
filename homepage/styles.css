@@ -1,0 +1,157 @@
+#div1{
+    width:200px;
+     border-style: ridge;
+    border-width: 1px;
+    border-color:red;
+   margin: auto;
+    margin-bottom:5px;
+}
+
+#header {
+    background-color:black;
+    text-align:center;
+    color:red;
+     padding:5px;
+     min-height:30%;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+h2{
+    color:red;
+    margin: 0.0em;
+	}
+
+
+p{
+    color:black;
+    margin-right: 0.0em;
+    margin-left: 0.0em;
+    }
+   
+   
+.p1{
+    font-family:arial;
+    color:white;
+    display: block;
+    width: 300px;
+    padding:0px;
+    margin-right: 0.0em;
+    margin-left: 0.0em;
+    } 
+
+    
+ body {
+
+  background-image:  url("PP.jpg");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+
+}
+
+.address { 
+    background-color: whitesmoke;
+    display: block;
+    font-style: italic;
+    line-height:1.4em;
+     margin: 1.5em;
+   
+}
+
+
+
+
+#nav{
+    background-color:red;
+    width:180px;
+     height: 50%;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 10px;
+    line-height:100px;
+    border-left-width:10px;
+    border-left-style:solid;
+    border-left-color:black;   
+     position: relative;
+    background-image: url("");  
+}
+
+    .Add{
+  margin: 1em;
+  width: 200px;
+  height: 170px;
+  background-color:red;
+  line-height:1.1em;
+  margin-left: 1em;
+  display: block;
+  border-left-width:10px;
+  border-left-style:ridge;
+  border-left-color:black; 
+  padding-top:20px;
+
+}
+	 	 
+
+#footer {
+    background-color:black;
+    color:red;
+    text-align:center;
+    padding:7px;
+    position: relative;	 
+    margin-top:900px;
+  }
+
+
+
+
+
+#section {
+    width:300px;
+   padding-left:30px;
+   padding-right:30px;
+}
+
+.small-box {
+  width: 600px;
+  height: 500px; 
+  overflow: auto ;
+  line-height: 1.4em;
+  background-color:lightgrey;
+  margin:3em;
+  padding:30px;
+  border-radius: 10px;
+  border-width:10px;
+  border-style :ridge;
+  border-color: black;
+  padding-top:10px;
+  position: 40% 40%;
+  box-shadow: rgba(0,0,0,0.4)
+  10px 10px;
+  
+  }
+
+.large-box {
+  width: 80%;
+  height: 700%;
+  border: no boarder;
+  line-height: 1.6em;
+   overflow:auto;
+  background-color:lightgrey;
+  margin-top: 1em;
+  margin-left: 9.9em;
+  padding-top:10px;
+  padding-left:30px;
+  padding-right:30px;
+  border-radius: 10px;
+  box-shadow:
+  rgba(0,0,0,0.4)
+  10px 10px;
+ 
+  }
+
