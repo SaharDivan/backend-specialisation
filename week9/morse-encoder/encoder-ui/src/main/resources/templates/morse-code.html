@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+</head>
+<body>
+
+<h1>Morse Code Encryptor</h1>
+<h2>Encrypted: <span th:text="${encoded}">Your text in Morse Code</span></h2>
+
+<form method="post" th:action=" @{/} " th:object="${plaintext}">
+    <label>Text to encrypt</label>
+    <input th:field="*{text}" type="text"/>
+    <p th:errors="*{text}" th:if="${#fields.hasErrors('text')}">Incorrect input</p>
+    <button type="submit">Submit your plain Text</button>
+</form>
+
+</body>
+</html>

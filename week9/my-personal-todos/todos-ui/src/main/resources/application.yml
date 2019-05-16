@@ -1,0 +1,3 @@
+server:
+  address:
+    url: http://localhost:9000/todos

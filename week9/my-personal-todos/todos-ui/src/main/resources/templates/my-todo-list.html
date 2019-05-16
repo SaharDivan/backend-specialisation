@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>My ToDo List</title>
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+</head>
+
+<body>
+
+<h1>
+    My Personal ToDo List
+</h1>
+
+<table>
+    <tr>
+        <th>ToDo</th>
+        <th>Action</th>
+    <tr>
+
+    <tr th:each="todo : ${todoslist}">
+        <td th:text="${todo.title}">Your List of ToDos</td>
+        <td>
+            <form method="post" th:action="@{/done}">
+                <input name="id" th:value="*{todo.id}" type="hidden"/>
+                <button type="submit">Mark As Done</button>
+            </form>
+        </td>
+    </tr>
+</table>
+
+
+<h2>Add new ToDo</h2>
+
+    <form method="post" th:action="@{/}" th:object="${todo}">
+        <label>Title: </label>
+        <input th:field="*{title}" type="text"/>
+        <p th:errors="*{title}" th:if="${#fields.hasErrors('title')}">Incorrect input</p>
+        <br/>
+        <button type="submit">Add ToDo</button>
+    </form>
+
+</body>
+</html>

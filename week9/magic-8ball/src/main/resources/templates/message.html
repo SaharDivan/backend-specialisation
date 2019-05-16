@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Magic 8 Ball</title>
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+
+</head>
+<body>
+<h1> Your fortune is: </h1>
+<p th:text="${message.text}">Message from magic 8 ball</p>
+</body>
+</html>

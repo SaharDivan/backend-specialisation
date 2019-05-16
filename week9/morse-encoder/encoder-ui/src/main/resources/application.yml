@@ -1,0 +1,3 @@
+encoder:
+  url: http://localhost:9000/encode
+
